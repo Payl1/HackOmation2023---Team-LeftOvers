@@ -3,33 +3,18 @@ HackOmation2023 - Team LeftOvers
 
 Mecanum Wheelchair
 
-|
 
 Team members:
 
- |
-
 Soman Karan, coder
-
- |
-|\
- |
 
 Ziyana Ramdutt, pitcher
 
- |
-|\
- |
-
 Declan
-
- |
-|\
- |
 
 Sarah
 
- |
+ 
 
 Day 1 (25/04/2023)
 
